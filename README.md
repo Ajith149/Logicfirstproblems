@@ -10,4 +10,3 @@ print(empty_list)
 
 result=''.join(empty_list)
 print(result)
-    
